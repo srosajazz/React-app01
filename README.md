@@ -4,7 +4,6 @@
 
 ### To build this mini ReactJs Static App I implemented with the following components listed below:
 
-* Create React App 2
 * Class Components
 * Dynamic Content
 * map() + key attribute
@@ -19,7 +18,8 @@
 * Filtering State
 * filter(), includes()
 * Search Box Component
-* Exercise: Where To Put State?
 * Class Methods and Arrow Functions
-* Exercise: Event Binding
+* Event Binding
+* SASS
+
 
