@@ -2,7 +2,7 @@
 
 ## https://srosajazz.github.io/React-app01/
 
-###To build this mini ReactJs Static App I implemented with the following components listed below:
+### To build this mini ReactJs Static App I implemented with the following components listed below:
 
 * Create React App 2
 * Class Components
